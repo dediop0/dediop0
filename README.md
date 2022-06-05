@@ -12,7 +12,7 @@ I'm an aspiring web developer !
 ###  Connect with me:
 
 
-https://www.instagram.com/bbos4fun/%22%3E<img align="left" src="https://user-images.githubusercontent.com/100538163/170320022-39761c22-bd91-4fca-92f3-e91a202cdcd2.svg" alt="Kay1 Instagram" width="21px"/></a>
+https://www.instagram.com/bbos4fun/<img align="left" src="https://user-images.githubusercontent.com/100538163/170320022-39761c22-bd91-4fca-92f3-e91a202cdcd2.svg" alt="Kay1 Instagram" width="21px"/></a>
 
 https://t.me/beta40o<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Kay1 Instagram" width="21px"/></a>
 
