@@ -12,11 +12,11 @@ I'm an aspiring web developer !
 ###  Connect with me:
 
 
-<a href="https://www.instagram.com/bbos4fun/%22%3E<img align="left" src="https://user-images.githubusercontent.com/100538163/170320022-39761c22-bd91-4fca-92f3-e91a202cdcd2.svg" alt="Kay1 Instagram" width="21px"/></a>
+https://www.instagram.com/bbos4fun/%22%3E<img align="left" src="https://user-images.githubusercontent.com/100538163/170320022-39761c22-bd91-4fca-92f3-e91a202cdcd2.svg" alt="Kay1 Instagram" width="21px"/></a>
 
-<a href="https://t.me/beta40o<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Kay1 Instagram" width="21px"/></a>
+https://t.me/beta40o<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Kay1 Instagram" width="21px"/></a>
 
-<a href="https://discord.com/users/954421596318208050<img align="left" src="https://user-images.githubusercontent.com/100538163/170320015-57999f20-c144-40fa-af46-6b1011601424.svg" alt="Kay1 Instagram" width="21px"/></a>
+https://discord.com/users/954421596318208050<img align="left" src="https://user-images.githubusercontent.com/100538163/170320015-57999f20-c144-40fa-af46-6b1011601424.svg" alt="Kay1 Instagram" width="21px"/></a>
 
 </br>
 </br>
