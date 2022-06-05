@@ -22,7 +22,8 @@ https://discord.com/users/954421596318208050<img align="left" src="https://user-
 </br>
 -  If you have any question/feedback, please do not hesitate to reach out to me via <a href="mailto: JemioloKryspin@Yahoo.Com">email</a>
 
-##  I'm currently working along side the management team for <a href="https://discord.gg/cjYQTRSWxz%22%3E Node Networks </a>
+##  COMMUNITY CREATION
+##  https://discord.gg/VUSAS92vta
 
 ##  I have previously used
 - JavaScript (Still have a lot to learn though)
