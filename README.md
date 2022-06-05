@@ -20,7 +20,7 @@ https://discord.com/users/954421596318208050<img align="left" src="https://user-
 
 </br>
 </br>
--  If you have any question/feedback, please do not hesitate to reach out to me via <a href="mailto: JemioloKryspin@Yahoo.Com">email</a>
+-  If you have any question/feedback, please do not hesitate to reach out to me via any of the links above!!
 
 ##  COMMUNITY CREATION
 ##  https://discord.gg/VUSAS92vta
