@@ -20,19 +20,21 @@ https://discord.com/users/954421596318208050<img align="left" src="https://user-
 
 </br>
 </br>
--  If you have any question/feedback, please do not hesitate to reach out to me via any of the links above!
+-  If you have any question/feedback, please do not hesitate to reach out to me via <a href="mailto: JemioloKryspin@Yahoo.Com">email</a>
 
 ##  COMMUNITY CREATION
 ##  https://discord.gg/VUSAS92vta
 
 ##  I have previously used
-- JavaScript (Still have a lot to learn though)
+- JavaScript
 - HTML
 - CSS
-- Tailwind
+- GoLang
+- Batch
+- Lua
+- Rust
 
 
 ##  I'm currently learning
 
-- JavaScript
 - ReactJS
